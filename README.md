@@ -1,1 +1,1 @@
-# krinbut-gads-2020-projects
+# krinbut's GADS project submission
