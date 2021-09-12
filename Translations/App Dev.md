@@ -2,7 +2,7 @@
 
 ## Objectives
 
-In this lab, you will learn how to perform the following tasks:
+In this lab, I performed the following tasks:
 
     - Provision a Google Compute Engine instance.
     - Connect to the instance using SSH.
